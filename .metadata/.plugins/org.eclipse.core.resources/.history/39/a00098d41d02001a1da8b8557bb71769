@@ -1,0 +1,8 @@
+package com.zensar.weatherservice;
+
+public class GetWeatherInfomation {
+	
+	private RestTemplate restTemplate;
+	
+
+}
